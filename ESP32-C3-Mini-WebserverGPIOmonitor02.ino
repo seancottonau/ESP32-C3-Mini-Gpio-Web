@@ -290,7 +290,6 @@ void handleRoot() {
   
   html += "</div>";
   html += "<div style='text-align: center; margin-top: 20px;'>";
-  html += "<button onclick='updateGPIO()'>Refresh Now</button>";
   html += "<button onclick='location.href=\"/\"'>Home</button>";
   html += "<button onclick='confirmReset()' style='background: #f44336;'>Reset Device</button>";
   html += "</div>";
