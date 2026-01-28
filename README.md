@@ -338,7 +338,7 @@ This code is provided as-is for educational and personal use.
   New Features:
   - Reset Device Button
 
-  ( Red button on the main GPIO Monitor page. Includes a JavaScript confirmation dialog with a warning message )
+  ( Red button on the main GPIO Monitor page.  Includes a JavaScript confirmation dialog with a warning message )
 
   When confirmed, it:
     - Clears all WiFi credentials from non-volatile storage (NVS)
